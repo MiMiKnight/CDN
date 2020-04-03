@@ -12,7 +12,8 @@ jsDelivr+Github 实现免费CDN
  
  > https://cdn.jsdelivr.net/gh/你的用户名/你的仓库名@发布的版本号/文件路径 
 
-`例如`
+`例如:`
+
 原链接
 > https://github.com/SillyCuckoo/CDN/edit/master/README.md
 
