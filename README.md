@@ -6,5 +6,6 @@ jsDelivr+Github 实现免费CDN
 ## 步骤
  通过jsDelivr引用资源，添加jsDelivr前缀 https://cdn.jsdelivr.net/gh/
  > https://cdn.jsdelivr.net/gh/你的用户名/你的仓库名@发布的版本号/文件路径 
+ 
  > https://cdn.jsdelivr.net/gh/你的用户名/你的仓库名@分支名/文件路径 
  
