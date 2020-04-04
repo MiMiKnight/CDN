@@ -2,7 +2,7 @@
 
 |编号|名称|描述|下载地址|<20MB|在线查看|
 |:----:|:----:|:----:|:----:|:----:|:----:|
-|image_001| blog_icon |博客icon|[点击下载](https://github.com/SillyCuckoo/CDN/raw/master/cnblog/images/image_001.webp)|Yes|[点击查看](https://cdn.jsdelivr.net/gh/SillyCuckoo/CDN@master/cnblog/images/image_001.webp)|
+|image_001| cat_icon |博客icon|[点击下载](https://github.com/SillyCuckoo/CDN/raw/master/cnblog/images/image_001.webp)|Yes|[点击查看](https://cdn.jsdelivr.net/gh/SillyCuckoo/CDN@master/cnblog/images/image_001.webp)|
 |image_002| 战斗不息 |首页轮播图|[点击下载](https://github.com/SillyCuckoo/CDN/raw/master/cnblog/images/image_002.jpg)|Yes|[点击查看](https://cdn.jsdelivr.net/gh/SillyCuckoo/CDN@master/cnblog/images/image_002.jpg)|
 |image_003| 五彩祥云 |首页轮播图|[点击下载](https://github.com/SillyCuckoo/CDN/raw/master/cnblog/images/image_003.jpg)|Yes|[点击查看](https://cdn.jsdelivr.net/gh/SillyCuckoo/CDN@master/cnblog/images/image_003.jpg)|
 |image_004| 吃鸡女斗士 |首页轮播图|[点击下载](https://github.com/SillyCuckoo/CDN/raw/master/cnblog/images/image_004.jpg)|Yes|[点击查看](https://cdn.jsdelivr.net/gh/SillyCuckoo/CDN@master/cnblog/images/image_004.jpg)|
