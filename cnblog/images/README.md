@@ -1,7 +1,7 @@
 # cnblog  images
 
 |编号|名称|描述|<20MB|在线查看|
-|:----:|:----:|:----:|:----:|:----:|:----:|
+|:----:|:----:|:----:|:----:|:----:|
 |image_001| cat_icon |博客icon|Yes|[点击查看](https://cdn.jsdelivr.net/gh/SillyCuckoo/CDN@master/cnblog/images/image_001.webp)|
 |image_002| 战斗不息 |首页轮播图|Yes|[点击查看](https://cdn.jsdelivr.net/gh/SillyCuckoo/CDN@master/cnblog/images/image_002.jpg)|
 |image_003| 五彩祥云 |首页轮播图|Yes|[点击查看](https://cdn.jsdelivr.net/gh/SillyCuckoo/CDN@master/cnblog/images/image_003.jpg)|
