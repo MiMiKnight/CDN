@@ -1,6 +1,6 @@
 # cnblog audios
 
-|编号|书名|下载地址|<20MB|在线试听|
+|编号|名称|下载地址|<20MB|在线试听|
 |:----:|:----:|:----:|:----:|:----:|
 |audio_001|《广东爱情故事-广东雨神.mp3》|[点击下载](https://github.com/SillyCuckoo/CDN/raw/master/cnblog/audios/audio_001.mp3)|Yes|[点击试听](https://cdn.jsdelivr.net/gh/SillyCuckoo/CDN@master/cnblog/audios/audio_001.mp3)|
 |audio_002|《丘比特点赞-牛奶咖啡.mp3》|[点击下载](https://github.com/SillyCuckoo/CDN/raw/master/cnblog/audios/audio_002.mp3)|Yes|[点击试听](https://cdn.jsdelivr.net/gh/SillyCuckoo/CDN@master/cnblog/audios/audio_002.mp3)|
