@@ -16,4 +16,6 @@
 |image_012| 极光 |文章轮播图|Yes|[点击查看](https://cdn.jsdelivr.net/gh/SillyCuckoo/CDN@master/cnblog/images/image_012.jpg)|
 | image_013 | 微信打赏码 | 微信打赏码 | Yes | [点击查看](https://cdn.jsdelivr.net/gh/SillyCuckoo/CDN@master/cnblog/images/image_013.jpg) |
 | image_014 | 三人一只鹿 | 首页轮播图 |Yes| [点击查看](https://cdn.jsdelivr.net/gh/SillyCuckoo/CDN@master/cnblog/images/image_014.jpg)|
+| image_015 | 落雨动画 | 头像背景 |Yes| [点击查看](https://cdn.jsdelivr.net/gh/SillyCuckoo/CDN@master/cnblog/images/image_015.gif)|
+
 
